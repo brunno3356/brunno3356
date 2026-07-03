@@ -91,6 +91,7 @@ Também atuo internacionalmente como **QA Freelancer** na plataforma **uTest/App
 ---
 
 ## 📊 GitHub Stats
+
 <div align="center">
   
 ![Brunno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunno3356&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
